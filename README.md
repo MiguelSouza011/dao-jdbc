@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Java para praticar **acesso a banco de dados com JDBC**, utilizando **MySQL** e o padrão de projeto **DAO (Data Access Object)**.
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 - Java
 - JDBC
@@ -10,7 +10,7 @@ Projeto desenvolvido em Java para praticar **acesso a banco de dados com JDBC**,
 - Maven
 - IntelliJ IDEA
 
-## 📚 Conceitos praticados
+##  Conceitos praticados
 
 - Conexão com banco de dados usando JDBC
 - `PreparedStatement`
